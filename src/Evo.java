@@ -30,7 +30,7 @@ public class Evo {
         }.imprime();
 
         /**
-         * Las funciones Lambda disponibles desde java 8 resultan una forma util y sencilla de implementar las funcionalidades de una interface,
+         * Las funciones Lambda disponibles desde java 8 resultan una forma util y sencilla de implementar las funcionalidades de una interface.
          */
 
         Impresor variableFuncional = ()-> System.out.println("Y así es la evolución");
